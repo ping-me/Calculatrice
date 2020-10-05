@@ -1,0 +1,49 @@
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\App.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\App.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.g.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\App.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\App.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.lref
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.g.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\App.baml
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\App.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.lref
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\View\MainWindow.baml
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.g.resources
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache

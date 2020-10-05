@@ -1,0 +1,33 @@
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.exe.config
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.pdb
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\App.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\View\MainWindow.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\App.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice_MarkupCompile.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice_MarkupCompile.lref
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\View\MainWindow.baml
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.g.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.Properties.Resources.resources
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.exe
+C:\Users\Ping YANG\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.pdb
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.exe.config
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.exe
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\bin\Release\Calculatrice.pdb
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.csprojAssemblyReference.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\App.baml
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\View\MainWindow.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\App.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice_MarkupCompile.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice_MarkupCompile.lref
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\View\MainWindow.baml
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.g.resources
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.Properties.Resources.resources
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.csproj.GenerateResource.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.exe
+C:\Users\pingy\OneDrive\Projets\MVVMSandbox\Calculatrice\obj\Release\Calculatrice.pdb
